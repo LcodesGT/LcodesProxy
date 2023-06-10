@@ -1,5 +1,5 @@
 
-# Growtopia enet proxy edited by Nubiza#0790
+# Growtopia enet proxy edited by LCodes
 
 *if you want Re-Edit this proxy please dont delete credits 
 
