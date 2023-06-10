@@ -1,0 +1,2 @@
+# LcodesProxy
+Growtopia Proxy
